@@ -1,5 +1,11 @@
 HEADERS = ["AppID", "Title", "Hidden date", "Public date"]
-ENTRY_FIELDS = ["appid", "title", "rt_release_date", "release"]
+TITLE_FIELDS = ["title"]
+TIMESTAMP_FIELD = "rt_release_date"
+HIDDEN_DATE_FIELD = "hidden_release"
+TRANSFORMED_FIELD_DICT = {TIMESTAMP_FIELD: HIDDEN_DATE_FIELD}
+HIDDEN_DATE_FIELDS = list(TRANSFORMED_FIELD_DICT.values())
+PUBLIC_DATE_FIELDS = ["release"]
+ENTRY_FIELDS = ["appid"] + TITLE_FIELDS + HIDDEN_DATE_FIELDS + PUBLIC_DATE_FIELDS
 PLACE_HOLDER = "---"
 
 
