@@ -1,0 +1,5640 @@
+{
+    "apps": [
+        {
+            "app_to_run": 1113000,
+            "appid": 1113000,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "1113000/header.jpg?t=1667843324",
+            "coming_soon": false,
+            "content_descriptors": [
+                1,
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                37895402,
+                32528477
+            ],
+            "deck_compatibility_category": 3,
+            "discount_percent": 35,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1113000/library_600x900.jpg?t=1667843324",
+            "localized_langs": [
+                0,
+                4,
+                7,
+                10
+            ],
+            "main_capsule": "1113000/capsule_616x353.jpg?t=1667843324",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256787612/microtrailer.webm?t=1660931201",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256787612/microtrailer.mp4?t=1660931201",
+            "no_main_cap": false,
+            "orig_price": "19,99€",
+            "orig_price_in_cents": 1999,
+            "price": "12,99€",
+            "price_in_cents": 1299,
+            "release": "13 Jun, 2020",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Overwhelmingly Positive",
+                "num_positive": 49972,
+                "num_reviews": 51432,
+                "score": 9
+            },
+            "reviews_unfiltered": {
+                "label": "Overwhelmingly Positive",
+                "num_positive": 49972,
+                "num_reviews": 51432,
+                "score": 9
+            },
+            "rt_release_date": 1592070797,
+            "screenshot_list": [
+                "1113000/ss_eaa97afeaed3e89d3032e8bb60cb8d6f331f241d.jpg?t=1667843324",
+                "1113000/ss_c92cef1e572183055dab3d8bcdcbc5fe55deb0cc.jpg?t=1667843324",
+                "1113000/ss_949196116c67aa963863a94def5a810a6d12979c.jpg?t=1667843324",
+                "1113000/ss_e772d1ad98a07b52e4434ef0fe1e8251e5908629.jpg?t=1667843324"
+            ],
+            "subid": 447601,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "JRPG",
+                    "tagid": 4434
+                },
+                {
+                    "name": "Great Soundtrack",
+                    "tagid": 1756
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Anime",
+                    "tagid": 4085
+                },
+                {
+                    "name": "Turn-Based Combat",
+                    "tagid": 4325
+                },
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Party-Based RPG",
+                    "tagid": 10695
+                },
+                {
+                    "name": "Mystery",
+                    "tagid": 5716
+                },
+                {
+                    "name": "Turn-Based Strategy",
+                    "tagid": 1741
+                }
+            ],
+            "tiny_capsule": "1113000/capsule_sm_120.jpg?t=1667843324",
+            "title": "Persona 4 Golden",
+            "type": "game"
+        },
+        {
+            "app_to_run": 2023360,
+            "appid": 2023360,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "2023360/header.jpg?t=1663677311",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                37969293
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "2023360/library_600x900.jpg?t=1663677311",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                5,
+                12,
+                14,
+                22
+            ],
+            "main_capsule": "2023360/capsule_616x353.jpg?t=1663677311",
+            "microtrailer": "256889864/microtrailer.webm?t=1655057002",
+            "microtrailer_mp4": "256889864/microtrailer.mp4?t=1655057002",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1680505200,
+            "screenshot_list": [
+                "2023360/ss_78c9b8b5e3405c9ffc6255d39b70573b58c6a7f3.jpg?t=1663677311",
+                "2023360/ss_aa95c1fa015cb2a7a9a21d029a597af4fd541fc0.jpg?t=1663677311",
+                "2023360/ss_5590a99c51bdbdafdb5a28eddeb41913462c03b1.jpg?t=1663677311",
+                "2023360/ss_98f9a23b75e1356b96b15fd2e9a9cad3a88080e1.jpg?t=1663677311"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Metroidvania",
+                    "tagid": 1628
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Lovecraftian",
+                    "tagid": 7432
+                },
+                {
+                    "name": "2D Platformer",
+                    "tagid": 5379
+                },
+                {
+                    "name": "Souls-like",
+                    "tagid": 29482
+                },
+                {
+                    "name": "Fantasy",
+                    "tagid": 1684
+                },
+                {
+                    "name": "Cinematic",
+                    "tagid": 4145
+                },
+                {
+                    "name": "Mystery",
+                    "tagid": 5716
+                }
+            ],
+            "tiny_capsule": "2023360/capsule_sm_120.jpg?t=1663677311",
+            "title": "The Last Case of Benedict Fox",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1658280,
+            "appid": 1658280,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1658280/header.jpg?t=1664380074",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33027220
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1658280/library_600x900.jpg?t=1664380074",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                22
+            ],
+            "main_capsule": "1658280/capsule_616x353.jpg?t=1664380074",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256906260/microtrailer.webm?t=1663321999",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256906260/microtrailer.mp4?t=1663321999",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Coming 2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1698768000,
+            "screenshot_list": [
+                "1658280/ss_58018a7b3e2940958ee3e62e484e94a90d509dd0.jpg?t=1664380074",
+                "1658280/ss_75aa71e6c3507e27c1913677c86efd6926118825.jpg?t=1664380074",
+                "1658280/ss_4434ba37acf49cdfcf6753e7f26f9197f86db5f3.jpg?t=1664380074",
+                "1658280/ss_02b0dd18df046d8b1ac4e916ef59bc2f598a479e.jpg?t=1664380074"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "JRPG",
+                    "tagid": 4434
+                },
+                {
+                    "name": "2.5D",
+                    "tagid": 4975
+                },
+                {
+                    "name": "Action RPG",
+                    "tagid": 4231
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Combat",
+                    "tagid": 3993
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Crafting",
+                    "tagid": 1702
+                }
+            ],
+            "tiny_capsule": "1658280/capsule_sm_120.jpg?t=1664380074",
+            "title": "Eiyuden Chronicle: Hundred Heroes",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1677110,
+            "appid": 1677110,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1677110/header.jpg?t=1656951584",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                40969379
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": true,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1677110/library_600x900.jpg?t=1656951584",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                12,
+                22
+            ],
+            "main_capsule": "1677110/capsule_616x353.jpg?t=1656951584",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256892690/microtrailer.webm?t=1655717186",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256892690/microtrailer.mp4?t=1655717186",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Spring 2023 - Wishlist and follow!",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1682697600,
+            "screenshot_list": [
+                "1677110/ss_f23acb1d21124aa6fb9d25d598c4ab8d0d3bf272.jpg?t=1656951584",
+                "1677110/ss_2b07e621e966a1b44b5bce0c65fd8221718492f9.jpg?t=1656951584",
+                "1677110/ss_c5d47048d43c263cbc6b97cf663f9683d5ccfe9d.jpg?t=1656951584",
+                "1677110/ss_45114d76a2834e974ca329ec0cad20bb3474fdbe.jpg?t=1656951584"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Early Access",
+                    "tagid": 493
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Resource Management",
+                    "tagid": 8945
+                },
+                {
+                    "name": "Crafting",
+                    "tagid": 1702
+                },
+                {
+                    "name": "Agriculture",
+                    "tagid": 22602
+                },
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                },
+                {
+                    "name": "Multiplayer",
+                    "tagid": 3859
+                },
+                {
+                    "name": "Co-op",
+                    "tagid": 1685
+                },
+                {
+                    "name": "Farming Sim",
+                    "tagid": 87918
+                },
+                {
+                    "name": "Relaxing",
+                    "tagid": 1654
+                }
+            ],
+            "tiny_capsule": "1677110/capsule_sm_120.jpg?t=1656951584",
+            "title": "Lightyear Frontier",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1867520,
+            "appid": 1867520,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1867520/header.jpg?t=1665082416",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                5921955
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1867520/library_600x900.jpg?t=1665082416",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                5,
+                6,
+                9,
+                22
+            ],
+            "main_capsule": "1867520/capsule_616x353.jpg?t=1665082416",
+            "microtrailer": "256905589/microtrailer.webm?t=1663175342",
+            "microtrailer_mp4": "256905589/microtrailer.mp4?t=1663175342",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Coming Soon",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1680195600,
+            "screenshot_list": [
+                "1867520/ss_98e165ffd4b68edc92923671bddef2900d5d8f1a.jpg?t=1665082416",
+                "1867520/ss_dd24324dd998f512ce881e8a48dcb771f635cc01.jpg?t=1665082416",
+                "1867520/ss_47b257f4fe39f7b2e976e11547a6b34489720350.jpg?t=1665082416",
+                "1867520/ss_4f419ccf441efc966d7672cc4ced9cd4f67fb77f.jpg?t=1665082416"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Casual",
+                    "tagid": 597
+                },
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Farming Sim",
+                    "tagid": 87918
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Anime",
+                    "tagid": 4085
+                },
+                {
+                    "name": "Cartoony",
+                    "tagid": 4195
+                },
+                {
+                    "name": "Colorful",
+                    "tagid": 4305
+                },
+                {
+                    "name": "Cute",
+                    "tagid": 4726
+                },
+                {
+                    "name": "Stylized",
+                    "tagid": 4252
+                }
+            ],
+            "tiny_capsule": "1867520/capsule_sm_120.jpg?t=1665082416",
+            "title": "Homestead Arcana",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1627720,
+            "appid": 1627720,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1627720/header.jpg?t=1666835591",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                36481934
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1627720/library_600x900.jpg?t=1666835591",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                12,
+                22
+            ],
+            "main_capsule": "1627720/capsule_616x353.jpg?t=1666835591",
+            "microtrailer": "256902140/microtrailer.webm?t=1661290107",
+            "microtrailer_mp4": "256902140/microtrailer.mp4?t=1661290107",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1704009600,
+            "screenshot_list": [
+                "1627720/ss_7679335f772c2f8ecb101769889bc090f02f5ec9.jpg?t=1666835591",
+                "1627720/ss_f67e44fe5a584254e422d3348c59f17bf7e767c9.jpg?t=1666835591",
+                "1627720/ss_f4fbe2effb4ef26ddfbf15f547186ae229cf87ee.jpg?t=1666835591",
+                "1627720/ss_9fba73a320c8e174530a464d4397249ab57bd51a.jpg?t=1666835591"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Souls-like",
+                    "tagid": 29482
+                },
+                {
+                    "name": "Action RPG",
+                    "tagid": 4231
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "3D",
+                    "tagid": 4191
+                },
+                {
+                    "name": "Third Person",
+                    "tagid": 1697
+                },
+                {
+                    "name": "Dark Fantasy",
+                    "tagid": 4604
+                },
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Atmospheric",
+                    "tagid": 4166
+                }
+            ],
+            "tiny_capsule": "1627720/capsule_sm_120.jpg?t=1666835591",
+            "title": "Lies of P",
+            "type": "game"
+        },
+        {
+            "app_to_run": 702890,
+            "appid": 702890,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "702890/header.jpg?t=1645657851",
+            "coming_soon": false,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33025239
+            ],
+            "deck_compatibility_category": 2,
+            "discount_percent": 75,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "702890/library_600x900.jpg?t=1645657851",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                10
+            ],
+            "main_capsule": "702890/capsule_616x353.jpg?t=1645657851",
+            "microtrailer": "256767821/microtrailer.webm?t=1574317857",
+            "microtrailer_mp4": "256767821/microtrailer.mp4?t=1574317857",
+            "no_main_cap": false,
+            "orig_price": "34,99€",
+            "orig_price_in_cents": 3499,
+            "price": "8,74€",
+            "price_in_cents": 874,
+            "release": "20 Nov, 2019",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Very Positive",
+                "num_positive": 2154,
+                "num_reviews": 2663,
+                "score": 8
+            },
+            "reviews_unfiltered": {
+                "label": "Very Positive",
+                "num_positive": 2154,
+                "num_reviews": 2663,
+                "score": 8
+            },
+            "rt_release_date": 1574297473,
+            "screenshot_list": [
+                "702890/ss_ca7a32b53e786f63a1600c466e71c3af11641361.jpg?t=1645657851",
+                "702890/ss_1d9102a08b7d494b7de748c561a87310585b65fa.jpg?t=1645657851",
+                "702890/ss_18fbc3d7a9746e48e233b7c1be8ee51b3613e279.jpg?t=1645657851",
+                "702890/ss_1ae01f6b1c654a24c74f5a0f6b99c45d1be32571.jpg?t=1645657851"
+            ],
+            "subid": 294274,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "2D Fighter",
+                    "tagid": 4736
+                },
+                {
+                    "name": "Anime",
+                    "tagid": 4085
+                },
+                {
+                    "name": "Fighting",
+                    "tagid": 1743
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Great Soundtrack",
+                    "tagid": 1756
+                },
+                {
+                    "name": "Local Multiplayer",
+                    "tagid": 7368
+                },
+                {
+                    "name": "eSports",
+                    "tagid": 5055
+                },
+                {
+                    "name": "Controller",
+                    "tagid": 7481
+                },
+                {
+                    "name": "Multiplayer",
+                    "tagid": 3859
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                }
+            ],
+            "tiny_capsule": "702890/capsule_sm_120.jpg?t=1645657851",
+            "title": "BlazBlue: Cross Tag Battle",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1644320,
+            "appid": 1644320,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1644320/header.jpg?t=1665399219",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                876623
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1644320/library_600x900.jpg?t=1665399219",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                22
+            ],
+            "main_capsule": "1644320/capsule_616x353.jpg?t=1665399219",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256902032/microtrailer.webm?t=1661180789",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256902032/microtrailer.mp4?t=1661180789",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1688662800,
+            "screenshot_list": [
+                "1644320/ss_c63a2b7077a3f7e8297ebba59b1b7e9ab7786b2b.jpg?t=1665399219",
+                "1644320/ss_d5a2a7b55dc5b206282fe017a7e59483654fb456.jpg?t=1665399219",
+                "1644320/ss_f175cb8a02f84531c942b0cae94af758e0337912.jpg?t=1665399219",
+                "1644320/ss_a117c1ac9f97a924b0ac8493703c2b782a22f880.jpg?t=1665399219"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Simulation",
+                    "tagid": 599
+                },
+                {
+                    "name": "Strategy",
+                    "tagid": 9
+                },
+                {
+                    "name": "Transportation",
+                    "tagid": 10383
+                },
+                {
+                    "name": "Management",
+                    "tagid": 12472
+                },
+                {
+                    "name": "Sandbox",
+                    "tagid": 3810
+                },
+                {
+                    "name": "Trains",
+                    "tagid": 1616
+                },
+                {
+                    "name": "Economy",
+                    "tagid": 4695
+                },
+                {
+                    "name": "Resource Management",
+                    "tagid": 8945
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "America",
+                    "tagid": 13190
+                }
+            ],
+            "tiny_capsule": "1644320/capsule_sm_120.jpg?t=1665399219",
+            "title": "Railway Empire 2",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1643310,
+            "appid": 1643310,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1643310/header.jpg?t=1665414458",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                876623
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1643310/library_600x900.jpg?t=1665414458",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                11,
+                12,
+                21,
+                25
+            ],
+            "main_capsule": "1643310/capsule_616x353.jpg?t=1665414458",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256902041/microtrailer.webm?t=1661184320",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256902041/microtrailer.mp4?t=1661184320",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1693501200,
+            "screenshot_list": [
+                "1643310/ss_381fcc42115f82d733b2fab4b5b4deb747ee538c.jpg?t=1665414458",
+                "1643310/ss_7db28235ca9b9f76078e82dec664bd4f68073de9.jpg?t=1665414458",
+                "1643310/ss_5403931b5df749807e516692cc2b00575f7d6779.jpg?t=1665414458",
+                "1643310/ss_148161af9e1dad435307b9957f0b0e17d7e27d3d.jpg?t=1665414458"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Simulation",
+                    "tagid": 599
+                },
+                {
+                    "name": "Strategy",
+                    "tagid": 9
+                },
+                {
+                    "name": "RTS",
+                    "tagid": 1676
+                },
+                {
+                    "name": "City Builder",
+                    "tagid": 4328
+                },
+                {
+                    "name": "Strategy RPG",
+                    "tagid": 17305
+                },
+                {
+                    "name": "3D",
+                    "tagid": 4191
+                },
+                {
+                    "name": "Fantasy",
+                    "tagid": 1684
+                },
+                {
+                    "name": "Dark Humor",
+                    "tagid": 5923
+                },
+                {
+                    "name": "Demons",
+                    "tagid": 9541
+                },
+                {
+                    "name": "Funny",
+                    "tagid": 4136
+                }
+            ],
+            "tiny_capsule": "1643310/capsule_sm_120.jpg?t=1665414458",
+            "title": "Dungeons 4",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1433140,
+            "appid": 1433140,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1433140/header.jpg?t=1655568751",
+            "coming_soon": true,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1433140/library_600x900.jpg?t=1655568751",
+            "localized_langs": [
+                0
+            ],
+            "main_capsule": "1433140/capsule_616x353.jpg?t=1655568751",
+            "microtrailer": "256891601/microtrailer.webm?t=1655568743",
+            "microtrailer_mp4": "256891601/microtrailer.mp4?t=1655568743",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "TBA",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1690923600,
+            "screenshot_list": [],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Horror",
+                    "tagid": 1667
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Asynchronous Multiplayer",
+                    "tagid": 17770
+                },
+                {
+                    "name": "Survival Horror",
+                    "tagid": 3978
+                },
+                {
+                    "name": "Team-Based",
+                    "tagid": 5711
+                },
+                {
+                    "name": "PvP",
+                    "tagid": 1775
+                },
+                {
+                    "name": "Gore",
+                    "tagid": 4345
+                },
+                {
+                    "name": "Stealth",
+                    "tagid": 1687
+                },
+                {
+                    "name": "Survival",
+                    "tagid": 1662
+                },
+                {
+                    "name": "Third Person",
+                    "tagid": 1697
+                }
+            ],
+            "tiny_capsule": "1433140/capsule_sm_120.jpg?t=1655568751",
+            "title": "The Texas Chain Saw Massacre",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1912380,
+            "appid": 1912380,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1912380/header.jpg?t=1669056427",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                29728776
+            ],
+            "deck_compatibility_category": 3,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1912380/library_600x900.jpg?t=1669056427",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                5,
+                6,
+                11,
+                22
+            ],
+            "main_capsule": "1912380/capsule_616x353.jpg?t=1669056427",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256900463/microtrailer.webm?t=1660228840",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256900463/microtrailer.mp4?t=1660228840",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "29 Nov, 2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1669744800,
+            "screenshot_list": [
+                "1912380/ss_a0b7c117e60289110f4869175c437ad76de90a56.jpg?t=1669056427",
+                "1912380/ss_4a8f8d4f118a759e48a6850aca99b115978bdd8a.jpg?t=1669056427",
+                "1912380/ss_a6cfd504f7759c651d96d813900423fe80acdf33.jpg?t=1669056427",
+                "1912380/ss_a560952d1dea793ad0390544da13d20b842a7e08.jpg?t=1669056427"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Sports",
+                    "tagid": 701
+                },
+                {
+                    "name": "Simulation",
+                    "tagid": 599
+                },
+                {
+                    "name": "Soccer",
+                    "tagid": 1679
+                },
+                {
+                    "name": "Football",
+                    "tagid": 7226
+                },
+                {
+                    "name": "Voxel",
+                    "tagid": 1732
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Puzzle",
+                    "tagid": 1664
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                }
+            ],
+            "tiny_capsule": "1912380/capsule_sm_120.jpg?t=1669056427",
+            "title": "Soccer Story",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1321680,
+            "appid": 1321680,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "1321680/header.jpg?t=1669067922",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                6858705,
+                35483784
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": 0,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1321680/library_600x900.jpg?t=1669067922",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10
+            ],
+            "main_capsule": "1321680/capsule_616x353.jpg?t=1669067922",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256907710/microtrailer.webm?t=1664291757",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256907710/microtrailer.mp4?t=1664291757",
+            "no_main_cap": false,
+            "orig_price": "",
+            "orig_price_in_cents": 3399,
+            "price": "33,99€",
+            "price_in_cents": 3399,
+            "release": "December 6th, 2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1670346000,
+            "screenshot_list": [
+                "1321680/ss_c1affb4818a942f8377328a9380d6bea26922e0a.jpg?t=1669067922",
+                "1321680/ss_809ff0a8f9cf0bb68ea3e4f47dc20abcb41344f3.jpg?t=1669067922",
+                "1321680/ss_016920e8a4a7b6c8c183715f360cab7865bb60d9.jpg?t=1669067922",
+                "1321680/ss_d90e2acc6da70a04fdb8351a499b37e9706686a8.jpg?t=1669067922"
+            ],
+            "subid": 461441,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Horror",
+                    "tagid": 1667
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Survival Horror",
+                    "tagid": 3978
+                },
+                {
+                    "name": "Stealth",
+                    "tagid": 1687
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Sandbox",
+                    "tagid": 3810
+                },
+                {
+                    "name": "Artificial Intelligence",
+                    "tagid": 7926
+                },
+                {
+                    "name": "Dark",
+                    "tagid": 4342
+                }
+            ],
+            "tiny_capsule": "1321680/capsule_sm_120.jpg?t=1669067922",
+            "title": "Pre-Purchase Hello Neighbor 2",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1260320,
+            "appid": 1260320,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1260320/header.jpg?t=1668689167",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                38207038,
+                38207244
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1260320/library_600x900.jpg?t=1668689167",
+            "localized_langs": [
+                0,
+                6,
+                7
+            ],
+            "main_capsule": "1260320/capsule_616x353.jpg?t=1668689167",
+            "microtrailer": "256894998/microtrailer.webm?t=1657086384",
+            "microtrailer_mp4": "256894998/microtrailer.mp4?t=1657086384",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "To be announced",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 0,
+            "screenshot_list": [
+                "1260320/ss_1582697e550a5e88a113d2a9730b443bdfc26288.jpg?t=1668689167",
+                "1260320/ss_c6bbc343ed3e0e7cedc3cdc8f6570a07802ec0ee.jpg?t=1668689167",
+                "1260320/ss_cdbd1e412d5562ff5cf834df1073bb3e8294203b.jpg?t=1668689167",
+                "1260320/ss_dc7cb0eec8b3fab3106bb4e5317590b8f882f0c5.jpg?t=1668689167"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Casual",
+                    "tagid": 597
+                },
+                {
+                    "name": "Funny",
+                    "tagid": 4136
+                },
+                {
+                    "name": "Multiplayer",
+                    "tagid": 3859
+                },
+                {
+                    "name": "Cute",
+                    "tagid": 4726
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Party Game",
+                    "tagid": 7178
+                },
+                {
+                    "name": "Fighting",
+                    "tagid": 1743
+                },
+                {
+                    "name": "PvP",
+                    "tagid": 1775
+                },
+                {
+                    "name": "Party",
+                    "tagid": 7108
+                },
+                {
+                    "name": "Co-op",
+                    "tagid": 1685
+                }
+            ],
+            "tiny_capsule": "1260320/capsule_sm_120.jpg?t=1668689167",
+            "title": "Party Animals",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1361210,
+            "appid": 1361210,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "1361210/header.jpg?t=1669118961",
+            "coming_soon": false,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                599215,
+                34274830
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": 0,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1361210/library_600x900.jpg?t=1669118961",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                12,
+                22
+            ],
+            "main_capsule": "1361210/capsule_616x353.jpg?t=1669118961",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256916808/microtrailer.webm?t=1668716048",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256916808/microtrailer.mp4?t=1668716048",
+            "no_main_cap": false,
+            "orig_price": "",
+            "orig_price_in_cents": 3999,
+            "price": "39,99€",
+            "price_in_cents": 3999,
+            "release": "30 Nov, 2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Mostly Positive",
+                "num_positive": 9052,
+                "num_reviews": 12247,
+                "score": 6
+            },
+            "reviews_unfiltered": {
+                "label": "Mostly Positive",
+                "num_positive": 9052,
+                "num_reviews": 12247,
+                "score": 6
+            },
+            "rt_release_date": 1669831200,
+            "screenshot_list": [
+                "1361210/ss_eea5f1aae5032babe3f1cdbd0c8e32272f4787c5.jpg?t=1669118961",
+                "1361210/ss_09770c728cb7d208eec817bbbccd2887056ac0bf.jpg?t=1669118961",
+                "1361210/ss_c070fc06b1c1d49a279ffab1b7391eda9dd1f7af.jpg?t=1669118961",
+                "1361210/ss_645a37031e618121b786076e26bd1ef907632a6c.jpg?t=1669118961"
+            ],
+            "subid": 477228,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Warhammer 40K",
+                    "tagid": 12286
+                },
+                {
+                    "name": "PvE",
+                    "tagid": 6730
+                },
+                {
+                    "name": "FPS",
+                    "tagid": 1663
+                },
+                {
+                    "name": "Hack and Slash",
+                    "tagid": 1646
+                },
+                {
+                    "name": "Online Co-Op",
+                    "tagid": 3843
+                },
+                {
+                    "name": "Shooter",
+                    "tagid": 1774
+                },
+                {
+                    "name": "Looter Shooter",
+                    "tagid": 353880
+                },
+                {
+                    "name": "First-Person",
+                    "tagid": 3839
+                },
+                {
+                    "name": "Violent",
+                    "tagid": 4667
+                },
+                {
+                    "name": "Team-Based",
+                    "tagid": 5711
+                }
+            ],
+            "tiny_capsule": "1361210/capsule_sm_120.jpg?t=1669118961",
+            "title": "Warhammer 40,000: Darktide",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1166940,
+            "appid": 1166940,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1166940/header.jpg?t=1659580644",
+            "coming_soon": true,
+            "content_descriptors": [
+                1,
+                2,
+                5
+            ],
+            "creator_clan_ids": [],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1166940/library_600x900.jpg?t=1659580644",
+            "localized_langs": [
+                0
+            ],
+            "main_capsule": "1166940/capsule_616x353.jpg?t=1659580644",
+            "microtrailer": "256762912/microtrailer.webm?t=1569545370",
+            "microtrailer_mp4": "256762912/microtrailer.mp4?t=1569545370",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "TBA",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1698778800,
+            "screenshot_list": [
+                "1166940/ss_46ca914d382222fe4ec2a5e9473826b1476143d8.jpg?t=1659580644",
+                "1166940/ss_4df6c0ad467c74880a549e3c66d7fe7a487b828b.jpg?t=1659580644",
+                "1166940/ss_cce2954bba93e3278aaba99ef5f35fcb328a54b4.jpg?t=1659580644",
+                "1166940/ss_721fc6664447edae19ef02d78c48c43d93bc4db3.jpg?t=1659580644"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Indie",
+                    "tagid": 492
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Violent",
+                    "tagid": 4667
+                },
+                {
+                    "name": "Lovecraftian",
+                    "tagid": 7432
+                },
+                {
+                    "name": "3D",
+                    "tagid": 4191
+                },
+                {
+                    "name": "Supernatural",
+                    "tagid": 10808
+                },
+                {
+                    "name": "Isometric",
+                    "tagid": 5851
+                },
+                {
+                    "name": "Survival Horror",
+                    "tagid": 3978
+                },
+                {
+                    "name": "Controller",
+                    "tagid": 7481
+                }
+            ],
+            "tiny_capsule": "1166940/capsule_sm_120.jpg?t=1659580644",
+            "title": "Dead Static Drive",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1294810,
+            "appid": 1294810,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1294810/header.jpg?t=1656428428",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                29066899,
+                33028765
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1294810/library_600x900.jpg?t=1656428428",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                11,
+                12,
+                22,
+                25,
+                27
+            ],
+            "main_capsule": "1294810/capsule_616x353.jpg?t=1656428428",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891420/microtrailer.webm?t=1655079727",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891420/microtrailer.mp4?t=1655079727",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1703912400,
+            "screenshot_list": [
+                "1294810/ss_0d4c00b12b00cabb4921e9ce7286abf02250a796.jpg?t=1656428428",
+                "1294810/ss_85c9ccbe89ebbae9c2ec8333b7a896c1574dccf0.jpg?t=1656428428",
+                "1294810/ss_c58d5d55c35a66500178ef78ce2182ff01179655.jpg?t=1656428428",
+                "1294810/ss_99b907353cb3cb2462346eea012b9d2b88a928ea.jpg?t=1656428428"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "FPS",
+                    "tagid": 1663
+                },
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Co-op",
+                    "tagid": 1685
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Shooter",
+                    "tagid": 1774
+                },
+                {
+                    "name": "First-Person",
+                    "tagid": 3839
+                },
+                {
+                    "name": "Stealth",
+                    "tagid": 1687
+                },
+                {
+                    "name": "Multiplayer",
+                    "tagid": 3859
+                }
+            ],
+            "tiny_capsule": "1294810/capsule_sm_120.jpg?t=1656428428",
+            "title": "Redfall",
+            "type": "game"
+        },
+        {
+            "app_to_run": 668580,
+            "appid": 668580,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "668580/header.jpg?t=1668618841",
+            "coming_soon": true,
+            "content_descriptors": [
+                1,
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                21394
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": 0,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "668580/library_600x900.jpg?t=1668618841",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                12,
+                22
+            ],
+            "main_capsule": "668580/capsule_616x353.jpg?t=1668618841",
+            "microtrailer": "256914193/microtrailer.webm?t=1667407506",
+            "microtrailer_mp4": "256914193/microtrailer.mp4?t=1667407506",
+            "no_main_cap": false,
+            "orig_price": "",
+            "orig_price_in_cents": 5999,
+            "price": "59,99€",
+            "price_in_cents": 5999,
+            "release": "20 Feb, 2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1676937600,
+            "screenshot_list": [
+                "668580/ss_63a9e439cf5c1aedf2b8a302d3cdfa1db85dc5dd.jpg?t=1668618841",
+                "668580/ss_f25b215ce27d84f71842aabf8c6d1272655f4d2b.jpg?t=1668618841",
+                "668580/ss_950a1c26ac0f9dd71ce67bcf7569b9bcf2af87f4.jpg?t=1668618841",
+                "668580/ss_f68568820068f712210fb6a8c8e34b6fa3068528.jpg?t=1668618841"
+            ],
+            "subid": 190066,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "FPS",
+                    "tagid": 1663
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Shooter",
+                    "tagid": 1774
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Sci-fi",
+                    "tagid": 3942
+                },
+                {
+                    "name": "First-Person",
+                    "tagid": 3839
+                },
+                {
+                    "name": "Action RPG",
+                    "tagid": 4231
+                },
+                {
+                    "name": "Atmospheric",
+                    "tagid": 4166
+                }
+            ],
+            "tiny_capsule": "668580/capsule_sm_120.jpg?t=1668618841",
+            "title": "Pre-Purchase Atomic Heart",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1472930,
+            "appid": 1472930,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1472930/header.jpg?t=1659035992",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33023506
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1472930/library_600x900.jpg?t=1659035992",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                12,
+                21,
+                22,
+                27
+            ],
+            "main_capsule": "1472930/capsule_616x353.jpg?t=1659035992",
+            "microtrailer": "256898459/microtrailer.webm?t=1659035984",
+            "microtrailer_mp4": "256898459/microtrailer.mp4?t=1659035984",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "TBD",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1703865600,
+            "screenshot_list": [
+                "1472930/ss_b8940e15ba7db512cca7f4630f3f9959e381d1f0.jpg?t=1659035992",
+                "1472930/ss_f0cec5e6f152e22629684e3956d2cb67426461a6.jpg?t=1659035992",
+                "1472930/ss_d1a20684944260272b8f07e725e4e1e29deac5ad.jpg?t=1659035992",
+                "1472930/ss_7e1ab4e5cd03787095606824c0d161e6c0a11bbd.jpg?t=1659035992"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Casual",
+                    "tagid": 597
+                },
+                {
+                    "name": "Sandbox",
+                    "tagid": 3810
+                },
+                {
+                    "name": "Creature Collector",
+                    "tagid": 916648
+                },
+                {
+                    "name": "3D",
+                    "tagid": 4191
+                },
+                {
+                    "name": "Colorful",
+                    "tagid": 4305
+                },
+                {
+                    "name": "Cute",
+                    "tagid": 4726
+                },
+                {
+                    "name": "Stylized",
+                    "tagid": 4252
+                },
+                {
+                    "name": "Family Friendly",
+                    "tagid": 5350
+                },
+                {
+                    "name": "Fantasy",
+                    "tagid": 1684
+                }
+            ],
+            "tiny_capsule": "1472930/capsule_sm_120.jpg?t=1659035992",
+            "title": "Flock",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1663850,
+            "appid": 1663850,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1663850/header.jpg?t=1667408303",
+            "coming_soon": true,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                25856171
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1663850/library_600x900.jpg?t=1667408303",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                12,
+                21,
+                22,
+                25
+            ],
+            "main_capsule": "1663850/capsule_616x353.jpg?t=1667408303",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256838054/microtrailer.webm?t=1623615042",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256838054/microtrailer.mp4?t=1623615042",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1701446400,
+            "screenshot_list": [],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "2D Platformer",
+                    "tagid": 5379
+                },
+                {
+                    "name": "Pixel Graphics",
+                    "tagid": 3964
+                },
+                {
+                    "name": "2.5D",
+                    "tagid": 4975
+                },
+                {
+                    "name": "Platformer",
+                    "tagid": 1625
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Cyberpunk",
+                    "tagid": 4115
+                },
+                {
+                    "name": "Sci-fi",
+                    "tagid": 3942
+                },
+                {
+                    "name": "1980s",
+                    "tagid": 7743
+                }
+            ],
+            "tiny_capsule": "1663850/capsule_sm_120.jpg?t=1667408303",
+            "title": "REPLACED",
+            "type": "game"
+        },
+        {
+            "app_to_run": 957960,
+            "appid": 957960,
+            "available_linux": false,
+            "available_mac": true,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "957960/header.jpg?t=1665391741",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                1738300
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "957960/library_600x900.jpg?t=1665391741",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                12,
+                22,
+                27
+            ],
+            "main_capsule": "957960/capsule_616x353.jpg?t=1665391741",
+            "microtrailer": "256901482/microtrailer.webm?t=1660840130",
+            "microtrailer_mp4": "256901482/microtrailer.mp4?t=1660840130",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Coming This Winter",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1675184400,
+            "screenshot_list": [
+                "957960/ss_6fa7cbd5963652e527376073d150fcb7d6d5513b.jpg?t=1665391741",
+                "957960/ss_c98b2c85d37975e80f0c7cb51906d978da93b258.jpg?t=1665391741",
+                "957960/ss_ccea81f0119beb78abbcdffc22c0a2ced966598e.jpg?t=1665391741",
+                "957960/ss_418d3f7fc66b3b3b21a6757f26aefc574b4154d7.jpg?t=1665391741"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Turn-Based Strategy",
+                    "tagid": 1741
+                },
+                {
+                    "name": "Medieval",
+                    "tagid": 4172
+                },
+                {
+                    "name": "Turn-Based Tactics",
+                    "tagid": 14139
+                },
+                {
+                    "name": "Roguelite",
+                    "tagid": 3959
+                },
+                {
+                    "name": "Turn-Based",
+                    "tagid": 1677
+                },
+                {
+                    "name": "Funny",
+                    "tagid": 4136
+                },
+                {
+                    "name": "Deckbuilding",
+                    "tagid": 32322
+                },
+                {
+                    "name": "Dark Humor",
+                    "tagid": 5923
+                },
+                {
+                    "name": "Hand-drawn",
+                    "tagid": 6815
+                },
+                {
+                    "name": "PvP",
+                    "tagid": 1775
+                }
+            ],
+            "tiny_capsule": "957960/capsule_sm_120.jpg?t=1665391741",
+            "title": "Inkulinati",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1608230,
+            "appid": 1608230,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1608230/header.jpg?t=1669022719",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                35370473
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1608230/library_600x900.jpg?t=1669022719",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                8,
+                10,
+                11
+            ],
+            "main_capsule": "1608230/capsule_616x353.jpg?t=1669022719",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891854/microtrailer.webm?t=1655235903",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891854/microtrailer.mp4?t=1655235903",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Q2 2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1688108400,
+            "screenshot_list": [
+                "1608230/ss_f388fc4c8b3ba813f86cc4afd883ad40821f3a39.jpg?t=1669022719",
+                "1608230/ss_3b65ecaeb3683a18b0aa8eb8f8fd3874881674fa.jpg?t=1669022719",
+                "1608230/ss_78c4bfa2fb1480008e41cd9ad154d5362df60d9b.jpg?t=1669022719",
+                "1608230/ss_ea3f85b0a5aa9379eed8c3e935e37962d2b5329c.jpg?t=1669022719"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Platformer",
+                    "tagid": 1625
+                },
+                {
+                    "name": "Puzzle",
+                    "tagid": 1664
+                },
+                {
+                    "name": "Controller",
+                    "tagid": 7481
+                },
+                {
+                    "name": "Puzzle Platformer",
+                    "tagid": 5537
+                },
+                {
+                    "name": "Atmospheric",
+                    "tagid": 4166
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Sci-fi",
+                    "tagid": 3942
+                },
+                {
+                    "name": "Hand-drawn",
+                    "tagid": 6815
+                },
+                {
+                    "name": "Cinematic",
+                    "tagid": 4145
+                }
+            ],
+            "tiny_capsule": "1608230/capsule_sm_120.jpg?t=1669022719",
+            "title": "Planet of Lana",
+            "type": "game"
+        },
+        {
+            "app_to_run": 589360,
+            "appid": 589360,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "589360/header.jpg?t=1666168049",
+            "coming_soon": false,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33042543
+            ],
+            "deck_compatibility_category": 3,
+            "discount_percent": 85,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "589360/library_600x900.jpg?t=1666168049",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                5,
+                8,
+                10
+            ],
+            "main_capsule": "589360/capsule_616x353.jpg?t=1666168049",
+            "microtrailer": "256712283/microtrailer.webm?t=1522914850",
+            "microtrailer_mp4": "256712283/microtrailer.mp4?t=1522914850",
+            "no_main_cap": false,
+            "orig_price": "59,99€",
+            "orig_price_in_cents": 5999,
+            "price": "8,99€",
+            "price_in_cents": 899,
+            "release": "23 Mar, 2018",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Very Positive",
+                "num_positive": 5715,
+                "num_reviews": 6832,
+                "score": 8
+            },
+            "reviews_unfiltered": {
+                "label": "Very Positive",
+                "num_positive": 5715,
+                "num_reviews": 6832,
+                "score": 8
+            },
+            "rt_release_date": 1521824378,
+            "screenshot_list": [
+                "589360/ss_ff6fee7750258b92c1c59c84c2b330737ea7bbff.jpg?t=1666168049",
+                "589360/ss_852c54214c20932dd085eea36692800c28a7beaa.jpg?t=1666168049",
+                "589360/ss_1c637c0850551411021a40d685d9134d3b121737.jpg?t=1666168049",
+                "589360/ss_092ad869c303c87c5b4b3d188cbd61d2face50b7.jpg?t=1666168049"
+            ],
+            "subid": 152497,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "JRPG",
+                    "tagid": 4434
+                },
+                {
+                    "name": "Anime",
+                    "tagid": 4085
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Fantasy",
+                    "tagid": 1684
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Cute",
+                    "tagid": 4726
+                },
+                {
+                    "name": "Action RPG",
+                    "tagid": 4231
+                }
+            ],
+            "tiny_capsule": "589360/capsule_sm_120.jpg?t=1666168049",
+            "title": "Ni no Kuni™ II: Revenant Kingdom",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1867530,
+            "appid": 1867530,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1867530/header.jpg?t=1668624916",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33023506
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1867530/library_600x900.jpg?t=1668624916",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                12,
+                22,
+                27
+            ],
+            "main_capsule": "1867530/capsule_616x353.jpg?t=1668624916",
+            "microtrailer": "",
+            "microtrailer_mp4": "",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "6 Dec, 2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1670346000,
+            "screenshot_list": [
+                "1867530/ss_a4784bedd6c356e74ac86b7c9d834a42c9fd95cc.jpg?t=1668624916",
+                "1867530/ss_5f2bb6bd84e26c7c8741d3c5a9150c6715054784.jpg?t=1668624916",
+                "1867530/ss_066800d2f76f4f8645c995ff5a0fe5560feb9112.jpg?t=1668624916",
+                "1867530/ss_fe8d11733043d6bd1739e2e96f23bef5da2c309f.jpg?t=1668624916"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Platformer",
+                    "tagid": 1625
+                },
+                {
+                    "name": "Sandbox",
+                    "tagid": 3810
+                },
+                {
+                    "name": "3D Platformer",
+                    "tagid": 5395
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Hack and Slash",
+                    "tagid": 1646
+                },
+                {
+                    "name": "3D",
+                    "tagid": 4191
+                },
+                {
+                    "name": "Colorful",
+                    "tagid": 4305
+                }
+            ],
+            "tiny_capsule": "1867530/capsule_sm_120.jpg?t=1668624916",
+            "title": "Solar Ash",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1046920,
+            "appid": 1046920,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1046920/header.jpg?t=1659553545",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                6869120
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1046920/library_600x900.jpg?t=1659553545",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                4,
+                5,
+                6,
+                8,
+                10,
+                12,
+                22
+            ],
+            "main_capsule": "1046920/capsule_616x353.jpg?t=1659553545",
+            "microtrailer": "256799018/microtrailer.webm?t=1598937277",
+            "microtrailer_mp4": "256799018/microtrailer.mp4?t=1598937277",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1680192000,
+            "screenshot_list": [
+                "1046920/ss_45afd9f1f2a5a95582d001fffb1e1a248d543c79.jpg?t=1659553545",
+                "1046920/ss_b9feff8b167dc10edd9b76a90837ad081e10d7e0.jpg?t=1659553545",
+                "1046920/ss_2d1a6d99071f97d7a7bcafc5fdc8e15801ca5361.jpg?t=1659553545",
+                "1046920/ss_ae07dcd20467af0bd3a53daafe2bf07e27753f65.jpg?t=1659553545"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Metroidvania",
+                    "tagid": 1628
+                },
+                {
+                    "name": "Nonlinear",
+                    "tagid": 6869
+                },
+                {
+                    "name": "Beat 'em up",
+                    "tagid": 4158
+                },
+                {
+                    "name": "2D Platformer",
+                    "tagid": 5379
+                },
+                {
+                    "name": "Hack and Slash",
+                    "tagid": 1646
+                },
+                {
+                    "name": "2D",
+                    "tagid": 3871
+                },
+                {
+                    "name": "Platformer",
+                    "tagid": 1625
+                },
+                {
+                    "name": "Cyberpunk",
+                    "tagid": 4115
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                }
+            ],
+            "tiny_capsule": "1046920/capsule_sm_120.jpg?t=1659553545",
+            "title": "Bushiden",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1497440,
+            "appid": 1497440,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1497440/header.jpg?t=1656355936",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33023506
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1497440/library_600x900.jpg?t=1656355936",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                11,
+                12,
+                14,
+                21,
+                22,
+                25,
+                27
+            ],
+            "main_capsule": "1497440/capsule_616x353.jpg?t=1656355936",
+            "microtrailer": "256893788/microtrailer.webm?t=1656355935",
+            "microtrailer_mp4": "256893788/microtrailer.mp4?t=1656355935",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1703872800,
+            "screenshot_list": [
+                "1497440/ss_e1760582c4ed7da2bc737b878126864f83308ca0.jpg?t=1656355936",
+                "1497440/ss_33edba0e9cbf89a896e9ec2e9b2731303c4ea83a.jpg?t=1656355936",
+                "1497440/ss_8bc511a76ac6fd37fc302beb74f61f7618c8fb7e.jpg?t=1656355936",
+                "1497440/ss_515d6e054265fde30ca72373ffaefd50e9276fc2.jpg?t=1656355936"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Puzzle",
+                    "tagid": 1664
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Puzzle Platformer",
+                    "tagid": 5537
+                },
+                {
+                    "name": "3D",
+                    "tagid": 4191
+                },
+                {
+                    "name": "Stylized",
+                    "tagid": 4252
+                },
+                {
+                    "name": "Atmospheric",
+                    "tagid": 4166
+                },
+                {
+                    "name": "Futuristic",
+                    "tagid": 4295
+                },
+                {
+                    "name": "Space",
+                    "tagid": 1755
+                },
+                {
+                    "name": "Indie",
+                    "tagid": 492
+                }
+            ],
+            "tiny_capsule": "1497440/capsule_sm_120.jpg?t=1656355936",
+            "title": "COCOON",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1671360,
+            "appid": 1671360,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1671360/header.jpg?t=1655215096",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                28981418
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1671360/library_600x900.jpg?t=1655215096",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                5
+            ],
+            "main_capsule": "1671360/capsule_616x353.jpg?t=1655215096",
+            "microtrailer": "256891053/microtrailer.webm?t=1655056924",
+            "microtrailer_mp4": "256891053/microtrailer.mp4?t=1655056924",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "To be announced - Wishlist Now!",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1687273200,
+            "screenshot_list": [
+                "1671360/ss_282331542a1e1aad4ae3fa59e3f0c56a72af552a.jpg?t=1655215096",
+                "1671360/ss_eae3011e0ecce87ce9003b4096d619e1c728d80f.jpg?t=1655215096",
+                "1671360/ss_3bebe661644170cbc86d0537629d0ac4b7168d08.jpg?t=1655215096",
+                "1671360/ss_aa96184f573100626093493c054843669ca87031.jpg?t=1655215096"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Stealth",
+                    "tagid": 1687
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Choices Matter",
+                    "tagid": 6426
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "3D Platformer",
+                    "tagid": 5395
+                },
+                {
+                    "name": "Lore-Rich",
+                    "tagid": 3854
+                },
+                {
+                    "name": "Sci-fi",
+                    "tagid": 3942
+                },
+                {
+                    "name": "Fighting",
+                    "tagid": 1743
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                }
+            ],
+            "tiny_capsule": "1671360/capsule_sm_120.jpg?t=1655215096",
+            "title": "Ereban: Shadow Legacy",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1030300,
+            "appid": 1030300,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1030300/header.jpg?t=1572306963",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1030300/library_600x900.jpg?t=1572306963",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                8,
+                10,
+                22
+            ],
+            "main_capsule": "1030300/capsule_616x353.jpg?t=1572306963",
+            "microtrailer": "256742997/microtrailer.webm?t=1550167436",
+            "microtrailer_mp4": "256742997/microtrailer.mp4?t=1550167436",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "TBA",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1835388000,
+            "screenshot_list": [
+                "1030300/ss_23a4df664aa3f994fa3f282f7cd77169a5eaa188.jpg?t=1572306963",
+                "1030300/ss_4c9cc3320086b199da64a4283f45ff41fe873d5e.jpg?t=1572306963",
+                "1030300/ss_fa26119cb53ce2433930f1257f8b76a465f0f7b8.jpg?t=1572306963",
+                "1030300/ss_8a7f8252f9a1f79742ce6e0a006bf5360697be8b.jpg?t=1572306963"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Metroidvania",
+                    "tagid": 1628
+                },
+                {
+                    "name": "Great Soundtrack",
+                    "tagid": 1756
+                },
+                {
+                    "name": "2D",
+                    "tagid": 3871
+                },
+                {
+                    "name": "Difficult",
+                    "tagid": 4026
+                },
+                {
+                    "name": "Indie",
+                    "tagid": 492
+                },
+                {
+                    "name": "Souls-like",
+                    "tagid": 29482
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Platformer",
+                    "tagid": 1625
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                }
+            ],
+            "tiny_capsule": "1030300/capsule_sm_120.jpg?t=1572306963",
+            "title": "Hollow Knight: Silksong",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1617220,
+            "appid": 1617220,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1617220/header.jpg?t=1668471447",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33023506
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1617220/library_600x900.jpg?t=1668471447",
+            "localized_langs": [
+                0
+            ],
+            "main_capsule": "1617220/capsule_616x353.jpg?t=1668471447",
+            "microtrailer": "256862387/microtrailer.webm?t=1659035463",
+            "microtrailer_mp4": "256862387/microtrailer.mp4?t=1659035463",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Coming soon",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 0,
+            "screenshot_list": [
+                "1617220/ss_571a75e4ca3317b271d145bd932c405ab82a35de.jpg?t=1668471447",
+                "1617220/ss_97a64ff8bf66b599d0eef073f43bfa0af67a9acd.jpg?t=1668471447",
+                "1617220/ss_db17ddb79384915eec656a38127536ce13cfd352.jpg?t=1668471447",
+                "1617220/ss_2d00c2b4dd2b3cb84558027ce0387e13b2349a79.jpg?t=1668471447"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Action RPG",
+                    "tagid": 4231
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Dating Sim",
+                    "tagid": 9551
+                },
+                {
+                    "name": "3D Platformer",
+                    "tagid": 5395
+                },
+                {
+                    "name": "3D",
+                    "tagid": 4191
+                },
+                {
+                    "name": "Funny",
+                    "tagid": 4136
+                },
+                {
+                    "name": "Skateboarding",
+                    "tagid": 1753
+                }
+            ],
+            "tiny_capsule": "1617220/capsule_sm_120.jpg?t=1668471447",
+            "title": "Thirsty Suitors",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1496260,
+            "appid": 1496260,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1496260/header.jpg?t=1647000388",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                6858705
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": true,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1496260/library_600x900.jpg?t=1647000388",
+            "localized_langs": [
+                0
+            ],
+            "main_capsule": "1496260/capsule_616x353.jpg?t=1647000388",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256819900/microtrailer.webm?t=1612291133",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256819900/microtrailer.mp4?t=1612291133",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "TBA",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1680548400,
+            "screenshot_list": [
+                "1496260/ss_46d837f2d718cd2b9aadf59aa1158977840285b1.jpg?t=1647000388",
+                "1496260/ss_e793c798b3b3ab538f39687da913423896717c89.jpg?t=1647000388",
+                "1496260/ss_766b13b1ba6e4e5f2cd5353c987fa584ad051ed1.jpg?t=1647000388",
+                "1496260/ss_0d456368d5a57ca79a238a1d429cea0fec95c680.jpg?t=1647000388"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Early Access",
+                    "tagid": 493
+                },
+                {
+                    "name": "Memes",
+                    "tagid": 10397
+                },
+                {
+                    "name": "Third Person",
+                    "tagid": 1697
+                },
+                {
+                    "name": "Physics",
+                    "tagid": 3968
+                },
+                {
+                    "name": "Simulation",
+                    "tagid": 599
+                },
+                {
+                    "name": "Funny",
+                    "tagid": 4136
+                },
+                {
+                    "name": "Comedy",
+                    "tagid": 1719
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Casual",
+                    "tagid": 597
+                }
+            ],
+            "tiny_capsule": "1496260/capsule_sm_120.jpg?t=1647000388",
+            "title": "Pigeon Simulator",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1384160,
+            "appid": 1384160,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "1384160/header.jpg?t=1665990695",
+            "coming_soon": false,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33025239
+            ],
+            "deck_compatibility_category": 2,
+            "discount_percent": 25,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1384160/library_600x900.jpg?t=1665990695",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                10
+            ],
+            "main_capsule": "1384160/capsule_616x353.jpg?t=1665990695",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256837800/microtrailer.webm?t=1623134140",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256837800/microtrailer.mp4?t=1623134140",
+            "no_main_cap": false,
+            "orig_price": "39,99€",
+            "orig_price_in_cents": 3999,
+            "price": "29,99€",
+            "price_in_cents": 2999,
+            "release": "11 Jun, 2021",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Very Positive",
+                "num_positive": 21107,
+                "num_reviews": 22831,
+                "score": 8
+            },
+            "reviews_unfiltered": {
+                "label": "Very Positive",
+                "num_positive": 21107,
+                "num_reviews": 22831,
+                "score": 8
+            },
+            "rt_release_date": 1623394800,
+            "screenshot_list": [
+                "1384160/ss_0f29aebacb81b972782382dbf4c0079f0d37b330.jpg?t=1665990695",
+                "1384160/ss_2561a4ae822856797b5fb231502b820a962336e0.jpg?t=1665990695",
+                "1384160/ss_104e16788c2ea35e1dac31d96be8d4f1df00f330.jpg?t=1665990695",
+                "1384160/ss_c290682ecdf413e368d9a66cd4a7a9430860ca1d.jpg?t=1665990695"
+            ],
+            "subid": 591105,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "2D Fighter",
+                    "tagid": 4736
+                },
+                {
+                    "name": "Fighting",
+                    "tagid": 1743
+                },
+                {
+                    "name": "Anime",
+                    "tagid": 4085
+                },
+                {
+                    "name": "Great Soundtrack",
+                    "tagid": 1756
+                },
+                {
+                    "name": "2.5D",
+                    "tagid": 4975
+                },
+                {
+                    "name": "PvP",
+                    "tagid": 1775
+                },
+                {
+                    "name": "Arcade",
+                    "tagid": 1773
+                },
+                {
+                    "name": "Lore-Rich",
+                    "tagid": 3854
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "2D",
+                    "tagid": 3871
+                }
+            ],
+            "tiny_capsule": "1384160/capsule_sm_120.jpg?t=1665990695",
+            "title": "GUILTY GEAR -STRIVE-",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1321440,
+            "appid": 1321440,
+            "available_linux": true,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1321440/header.jpg?t=1668196541",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                28981418
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1321440/library_600x900.jpg?t=1668196541",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                10,
+                27
+            ],
+            "main_capsule": "1321440/capsule_616x353.jpg?t=1668196541",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256914208/microtrailer.webm?t=1667403276",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256914208/microtrailer.mp4?t=1667403276",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1704009600,
+            "screenshot_list": [
+                "1321440/ss_9db775d954de223696d9c215bc6085671a8cd32a.jpg?t=1668196541",
+                "1321440/ss_580f8e3d83ab9357cface16e0272eb541f51984e.jpg?t=1668196541",
+                "1321440/ss_aaa30fb9959b16d8026ac1e83a3bb0e8c591ed8b.jpg?t=1668196541",
+                "1321440/ss_4827bdcc9c85974fed63970ef4677e3ab14ef217.jpg?t=1668196541"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                },
+                {
+                    "name": "Multiplayer",
+                    "tagid": 3859
+                },
+                {
+                    "name": "3D",
+                    "tagid": 4191
+                },
+                {
+                    "name": "Top-Down",
+                    "tagid": 4791
+                },
+                {
+                    "name": "Female Protagonist",
+                    "tagid": 7208
+                },
+                {
+                    "name": "Cozy",
+                    "tagid": 97376
+                },
+                {
+                    "name": "Creature Collector",
+                    "tagid": 916648
+                },
+                {
+                    "name": "Cute",
+                    "tagid": 4726
+                },
+                {
+                    "name": "Simulation",
+                    "tagid": 599
+                }
+            ],
+            "tiny_capsule": "1321440/capsule_sm_120.jpg?t=1668196541",
+            "title": "Cassette Beasts",
+            "type": "game"
+        },
+        {
+            "app_to_run": 2050420,
+            "appid": 2050420,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "2050420/header.jpg?t=1655250428",
+            "coming_soon": true,
+            "content_descriptors": [
+                5
+            ],
+            "creator_clan_ids": [],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "2050420/library_600x900.jpg?t=1655250428",
+            "localized_langs": [
+                0
+            ],
+            "main_capsule": "2050420/capsule_616x353.jpg?t=1655250428",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891264/microtrailer.webm?t=1655055732",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891264/microtrailer.mp4?t=1655055732",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1703872800,
+            "screenshot_list": [
+                "2050420/ss_102ab9c7b5e37d92687fa7fa4d044f9658b52817.jpg?t=1655250428",
+                "2050420/ss_d7d4192243837136c8dde65c5272e7fb7aaac0b2.jpg?t=1655250428",
+                "2050420/ss_64a258046c56fa3491ff44e44ab3a9ac0b8f400e.jpg?t=1655250428",
+                "2050420/ss_e8d4596d79b81ab56a11c349d4f8fb8620a73636.jpg?t=1655250428"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Survival",
+                    "tagid": 1662
+                },
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                },
+                {
+                    "name": "Multiplayer",
+                    "tagid": 3859
+                },
+                {
+                    "name": "Dinosaurs",
+                    "tagid": 5160
+                },
+                {
+                    "name": "Crafting",
+                    "tagid": 1702
+                },
+                {
+                    "name": "Building",
+                    "tagid": 1643
+                },
+                {
+                    "name": "Base Building",
+                    "tagid": 7332
+                },
+                {
+                    "name": "Online Co-Op",
+                    "tagid": 3843
+                },
+                {
+                    "name": "Sandbox",
+                    "tagid": 3810
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                }
+            ],
+            "tiny_capsule": "2050420/capsule_sm_120.jpg?t=1655250428",
+            "title": "ARK 2",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1832040,
+            "appid": 1832040,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1832040/header.jpg?t=1666250977",
+            "coming_soon": true,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1832040/library_600x900.jpg?t=1666250977",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                8,
+                10
+            ],
+            "main_capsule": "1832040/capsule_616x353.jpg?t=1666250977",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256889403/microtrailer.webm?t=1655055776",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256889403/microtrailer.mp4?t=1655055776",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Early 2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1735664400,
+            "screenshot_list": [
+                "1832040/ss_fd02d4f1ffb25bfc8a13b32608e11c00e36c6ef7.jpg?t=1666250977",
+                "1832040/ss_3ba4d0e9370d34ea163b0ed57040c85c0fe086b8.jpg?t=1666250977",
+                "1832040/ss_e4263bf2f348367b6a732128f7e55eebdf6567e7.jpg?t=1666250977",
+                "1832040/ss_ac1f5192e31ec0a79200e84033a9a64abf7fa3bd.jpg?t=1666250977"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action RPG",
+                    "tagid": 4231
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Souls-like",
+                    "tagid": 29482
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                },
+                {
+                    "name": "Female Protagonist",
+                    "tagid": 7208
+                },
+                {
+                    "name": "Hack and Slash",
+                    "tagid": 1646
+                },
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Interactive Fiction",
+                    "tagid": 11014
+                },
+                {
+                    "name": "Character Customization",
+                    "tagid": 4747
+                }
+            ],
+            "tiny_capsule": "1832040/capsule_sm_120.jpg?t=1666250977",
+            "title": "Flintlock: The Siege of Dawn",
+            "type": "game"
+        },
+        {
+            "app_to_run": 2021880,
+            "appid": 2021880,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "2021880/header.jpg?t=1667484008",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                3090835
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "2021880/library_600x900.jpg?t=1667484008",
+            "localized_langs": [
+                0
+            ],
+            "main_capsule": "2021880/capsule_616x353.jpg?t=1667484008",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256892132/microtrailer.webm?t=1655749265",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256892132/microtrailer.mp4?t=1655749265",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "To Be Announced",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1688140800,
+            "screenshot_list": [
+                "2021880/ss_2a58ee8ffeabffb6e19926912d162e276a2dc742.jpg?t=1667484008",
+                "2021880/ss_6f05522cd5cb24c410b78d68c45831c805a0ad85.jpg?t=1667484008",
+                "2021880/ss_4d244fe428c4c15d69a54a29a26624c5e0774a4b.jpg?t=1667484008",
+                "2021880/ss_2ed506e848fadea0f40bcb775ec3ec48115bc85c.jpg?t=1667484008"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Strategy",
+                    "tagid": 9
+                },
+                {
+                    "name": "4X",
+                    "tagid": 1670
+                },
+                {
+                    "name": "Grand Strategy",
+                    "tagid": 4364
+                },
+                {
+                    "name": "Alternate History",
+                    "tagid": 4598
+                },
+                {
+                    "name": "Historical",
+                    "tagid": 3987
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Turn-Based Tactics",
+                    "tagid": 14139
+                },
+                {
+                    "name": "Resource Management",
+                    "tagid": 8945
+                },
+                {
+                    "name": "Diplomacy",
+                    "tagid": 6310
+                },
+                {
+                    "name": "Management",
+                    "tagid": 12472
+                }
+            ],
+            "tiny_capsule": "2021880/capsule_sm_120.jpg?t=1667484008",
+            "title": "Ara: History Untold",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1643320,
+            "appid": 1643320,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "1643320/header.jpg?t=1655252279",
+            "coming_soon": true,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                33676874,
+                6313
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": 0,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1643320/library_600x900.jpg?t=1655252279",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                12,
+                19,
+                21,
+                22,
+                25,
+                26,
+                27
+            ],
+            "main_capsule": "1643320/capsule_616x353.jpg?t=1655252279",
+            "microtrailer": "256891964/microtrailer.webm?t=1655252272",
+            "microtrailer_mp4": "256891964/microtrailer.mp4?t=1655252272",
+            "no_main_cap": false,
+            "orig_price": "",
+            "orig_price_in_cents": 5999,
+            "price": "59,99€",
+            "price_in_cents": 5999,
+            "release": "Dec 2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1703872800,
+            "screenshot_list": [
+                "1643320/ss_15c0d1940c6c3872e0d4e455f4d2da32c2028a18.jpg?t=1655252279",
+                "1643320/ss_3b56a4aea69f1d49d4871eeb1913f460f067a138.jpg?t=1655252279",
+                "1643320/ss_b9375dc730cb8a050e9da36e4fe779b34e5f44c5.jpg?t=1655252279",
+                "1643320/ss_98c6c34249e944e42fcb46481cac1f5d43457729.jpg?t=1655252279"
+            ],
+            "subid": 583675,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                },
+                {
+                    "name": "FPS",
+                    "tagid": 1663
+                },
+                {
+                    "name": "Post-apocalyptic",
+                    "tagid": 3835
+                },
+                {
+                    "name": "Survival",
+                    "tagid": 1662
+                },
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Shooter",
+                    "tagid": 1774
+                },
+                {
+                    "name": "Atmospheric",
+                    "tagid": 4166
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                }
+            ],
+            "tiny_capsule": "1643320/capsule_sm_120.jpg?t=1655252279",
+            "title": "Pre-Purchase S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+            "type": "game"
+        },
+        {
+            "app_to_run": 2097230,
+            "appid": 2097230,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "2097230/header.jpg?t=1666899184",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                35843170
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "2097230/library_600x900.jpg?t=1666899184",
+            "localized_langs": [
+                0
+            ],
+            "main_capsule": "2097230/capsule_616x353.jpg?t=1666899184",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256904625/microtrailer.webm?t=1663181492",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256904625/microtrailer.mp4?t=1663181492",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1704009600,
+            "screenshot_list": [
+                "2097230/ss_bfa902adb5add5f20f5ab651093630cc1761c3af.jpg?t=1666899184",
+                "2097230/ss_54a33b88ef1af48896bc0b1e1d43df10d5dd0870.jpg?t=1666899184",
+                "2097230/ss_c0cc9bf6626c3cb601a6d1c6b60b12d27e7330af.jpg?t=1666899184",
+                "2097230/ss_2ef92e19fba8e4786f951706058c2fa55196e074.jpg?t=1666899184"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Hack and Slash",
+                    "tagid": 1646
+                },
+                {
+                    "name": "Shoot 'Em Up",
+                    "tagid": 4255
+                },
+                {
+                    "name": "Top-Down Shooter",
+                    "tagid": 4637
+                },
+                {
+                    "name": "2D",
+                    "tagid": 3871
+                },
+                {
+                    "name": "Cute",
+                    "tagid": 4726
+                },
+                {
+                    "name": "Pixel Graphics",
+                    "tagid": 3964
+                },
+                {
+                    "name": "Dark Comedy",
+                    "tagid": 19995
+                }
+            ],
+            "tiny_capsule": "2097230/capsule_sm_120.jpg?t=1666899184",
+            "title": "Turnip Boy Robs a Bank",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1789480,
+            "appid": 1789480,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "1789480/header.jpg?t=1664975721",
+            "coming_soon": false,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                32941731
+            ],
+            "deck_compatibility_category": 1,
+            "discount_percent": 0,
+            "early_access": true,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1789480/library_600x900.jpg?t=1664975721",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8
+            ],
+            "main_capsule": "1789480/capsule_616x353.jpg?t=1664975721",
+            "microtrailer": "256908952/microtrailer.webm?t=1664812773",
+            "microtrailer_mp4": "256908952/microtrailer.mp4?t=1664812773",
+            "no_main_cap": false,
+            "orig_price": "",
+            "orig_price_in_cents": 2999,
+            "price": "29,99€",
+            "price_in_cents": 2999,
+            "release": "3 Oct, 2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Mostly Positive",
+                "num_positive": 4548,
+                "num_reviews": 5768,
+                "score": 6
+            },
+            "reviews_unfiltered": {
+                "label": "Mostly Positive",
+                "num_positive": 4548,
+                "num_reviews": 5768,
+                "score": 6
+            },
+            "rt_release_date": 1664812783,
+            "screenshot_list": [
+                "1789480/ss_ba08c5fedc1adaf080b5df9eb080be5505a55d46.jpg?t=1664975721",
+                "1789480/ss_70220c617f1671161aebb73a82afb046f459f94d.jpg?t=1664975721",
+                "1789480/ss_3b14d057c21b1aa78807a120d4e812fcb52585b0.jpg?t=1664975721",
+                "1789480/ss_3e4b6c35695b47a7a46695d54094904f6caa725c.jpg?t=1664975721"
+            ],
+            "subid": 642675,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Early Access",
+                    "tagid": 493
+                },
+                {
+                    "name": "Looter Shooter",
+                    "tagid": 353880
+                },
+                {
+                    "name": "FPS",
+                    "tagid": 1663
+                },
+                {
+                    "name": "Perma Death",
+                    "tagid": 1759
+                },
+                {
+                    "name": "PvP",
+                    "tagid": 1775
+                },
+                {
+                    "name": "Shooter",
+                    "tagid": 1774
+                },
+                {
+                    "name": "First-Person",
+                    "tagid": 3839
+                },
+                {
+                    "name": "Space Sim",
+                    "tagid": 16598
+                },
+                {
+                    "name": "Alternate History",
+                    "tagid": 4598
+                },
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                }
+            ],
+            "tiny_capsule": "1789480/capsule_sm_120.jpg?t=1664975721",
+            "title": "Marauders",
+            "type": "game"
+        },
+        {
+            "app_to_run": 762840,
+            "appid": 762840,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "762840/header.jpg?t=1667003223",
+            "coming_soon": false,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33023506
+            ],
+            "deck_compatibility_category": 3,
+            "discount_percent": 50,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "762840/library_600x900.jpg?t=1667003223",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                11,
+                12,
+                14,
+                21,
+                22,
+                25,
+                27
+            ],
+            "main_capsule": "762840/capsule_616x353.jpg?t=1667003223",
+            "microtrailer": "256824289/microtrailer.webm?t=1614704635",
+            "microtrailer_mp4": "256824289/microtrailer.mp4?t=1614704635",
+            "no_main_cap": false,
+            "orig_price": "16,79€",
+            "orig_price_in_cents": 1679,
+            "price": "8,39€",
+            "price_in_cents": 839,
+            "release": "2 Mar, 2021",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Mixed",
+                "num_positive": 307,
+                "num_reviews": 444,
+                "score": 5
+            },
+            "reviews_unfiltered": {
+                "label": "Mixed",
+                "num_positive": 307,
+                "num_reviews": 444,
+                "score": 5
+            },
+            "rt_release_date": 1614704075,
+            "screenshot_list": [
+                "762840/ss_910be761f3261907c5c83db343da37c6871e84c4.jpg?t=1667003223",
+                "762840/ss_0f634d99e2bbf4fca041bd2157b2508cade80bf8.jpg?t=1667003223",
+                "762840/ss_bbe8cc7d070949cf488345d46564fdfd34696eb9.jpg?t=1667003223",
+                "762840/ss_761b78bb294ae396489e8c252fd8a27a287c428f.jpg?t=1667003223"
+            ],
+            "subid": 225413,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Indie",
+                    "tagid": 492
+                },
+                {
+                    "name": "Puzzle",
+                    "tagid": 1664
+                },
+                {
+                    "name": "First-Person",
+                    "tagid": 3839
+                },
+                {
+                    "name": "Puzzle Platformer",
+                    "tagid": 5537
+                },
+                {
+                    "name": "Beautiful",
+                    "tagid": 5411
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Emotional",
+                    "tagid": 5608
+                },
+                {
+                    "name": "Mystery",
+                    "tagid": 5716
+                },
+                {
+                    "name": "Drama",
+                    "tagid": 5984
+                }
+            ],
+            "tiny_capsule": "762840/capsule_sm_120.jpg?t=1667003223",
+            "title": "Maquette",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1282760,
+            "appid": 1282760,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "1282760/header.jpg?t=1649103375",
+            "coming_soon": false,
+            "content_descriptors": [],
+            "creator_clan_ids": [],
+            "deck_compatibility_category": 3,
+            "discount_percent": 33,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1282760/library_600x900.jpg?t=1649103375",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                6,
+                8,
+                27
+            ],
+            "main_capsule": "1282760/capsule_616x353.jpg?t=1649103375",
+            "microtrailer": "256877073/microtrailer.webm?t=1646785526",
+            "microtrailer_mp4": "256877073/microtrailer.mp4?t=1646785526",
+            "no_main_cap": false,
+            "orig_price": "12,49€",
+            "orig_price_in_cents": 1249,
+            "price": "8,36€",
+            "price_in_cents": 836,
+            "release": "14 Mar, 2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Very Positive",
+                "num_positive": 111,
+                "num_reviews": 125,
+                "score": 8
+            },
+            "reviews_unfiltered": {
+                "label": "Very Positive",
+                "num_positive": 111,
+                "num_reviews": 125,
+                "score": 8
+            },
+            "rt_release_date": 1647317118,
+            "screenshot_list": [
+                "1282760/ss_b762c2c9b3725418dc2c79ae3893a94bd6b99a96.jpg?t=1649103375",
+                "1282760/ss_edff172aa19a2796eac3720175d32dc20f9d8822.jpg?t=1649103375",
+                "1282760/ss_81eee73cdc676866098af1c0e364cd52dc008f0f.jpg?t=1649103375",
+                "1282760/ss_ebb67d7d3423d8acfa05c61b7b0b180cfa919894.jpg?t=1649103375"
+            ],
+            "subid": 447003,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Party",
+                    "tagid": 7108
+                },
+                {
+                    "name": "Stylized",
+                    "tagid": 4252
+                },
+                {
+                    "name": "Funny",
+                    "tagid": 4136
+                },
+                {
+                    "name": "Online Co-Op",
+                    "tagid": 3843
+                },
+                {
+                    "name": "Physics",
+                    "tagid": 3968
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Local Multiplayer",
+                    "tagid": 7368
+                },
+                {
+                    "name": "Fighting",
+                    "tagid": 1743
+                },
+                {
+                    "name": "Party Game",
+                    "tagid": 7178
+                },
+                {
+                    "name": "Casual",
+                    "tagid": 597
+                }
+            ],
+            "tiny_capsule": "1282760/capsule_sm_120.jpg?t=1649103375",
+            "title": "Mad Streets",
+            "type": "game"
+        },
+        {
+            "app_to_run": 606160,
+            "appid": 606160,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "606160/header.jpg?t=1654872014",
+            "coming_soon": true,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                28981418
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "606160/library_600x900.jpg?t=1654872014",
+            "localized_langs": [
+                0
+            ],
+            "main_capsule": "606160/capsule_616x353.jpg?t=1654872014",
+            "microtrailer": "256889579/microtrailer.webm?t=1654872013",
+            "microtrailer_mp4": "256889579/microtrailer.mp4?t=1654872013",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "TO BE ANNOUNCED",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1680800400,
+            "screenshot_list": [
+                "606160/ss_7cc3549f3da9712fe24ba03de36e1e0e68dd7519.jpg?t=1654872014",
+                "606160/ss_74c864cb7d97536f8ca0746b90389f413c30a849.jpg?t=1654872014",
+                "606160/ss_ad7200ed387e6c4ee9079fec4bc40e42b0db4df6.jpg?t=1654872014",
+                "606160/ss_3a0381929e26efb9803906c15f8488da46da8931.jpg?t=1654872014"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Horror",
+                    "tagid": 1667
+                },
+                {
+                    "name": "First-Person",
+                    "tagid": 3839
+                },
+                {
+                    "name": "Survival Horror",
+                    "tagid": 3978
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Gore",
+                    "tagid": 4345
+                },
+                {
+                    "name": "Sci-fi",
+                    "tagid": 3942
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Survival",
+                    "tagid": 1662
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                }
+            ],
+            "tiny_capsule": "606160/capsule_sm_120.jpg?t=1654872014",
+            "title": "ROUTINE",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1448440,
+            "appid": 1448440,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1448440/header.jpg?t=1667351715",
+            "coming_soon": true,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                33016879
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1448440/library_600x900.jpg?t=1667351715",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                22
+            ],
+            "main_capsule": "1448440/capsule_616x353.jpg?t=1667351715",
+            "microtrailer": "256902379/microtrailer.webm?t=1661518838",
+            "microtrailer_mp4": "256902379/microtrailer.mp4?t=1661518838",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "3 Mar, 2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1677830400,
+            "screenshot_list": [
+                "1448440/ss_46d32690392bad490af693cbf3394f8f346890ce.jpg?t=1667351715",
+                "1448440/ss_db17363dfa15e14909f975ff768c666e2fe98f63.jpg?t=1667351715",
+                "1448440/ss_616f77c0cf7aa9ad801608d72bbaf188696b7438.jpg?t=1667351715",
+                "1448440/ss_059a719c1e150ec703459541db853fd2fbf1df55.jpg?t=1667351715"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Difficult",
+                    "tagid": 4026
+                },
+                {
+                    "name": "Dark Fantasy",
+                    "tagid": 4604
+                },
+                {
+                    "name": "Action RPG",
+                    "tagid": 4231
+                },
+                {
+                    "name": "Historical",
+                    "tagid": 3987
+                },
+                {
+                    "name": "Hack and Slash",
+                    "tagid": 1646
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Fantasy",
+                    "tagid": 1684
+                },
+                {
+                    "name": "JRPG",
+                    "tagid": 4434
+                }
+            ],
+            "tiny_capsule": "1448440/capsule_sm_120.jpg?t=1667351715",
+            "title": "Wo Long: Fallen Dynasty",
+            "type": "game"
+        },
+        {
+            "app_to_run": 492540,
+            "appid": 492540,
+            "available_linux": true,
+            "available_mac": true,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "492540/header.jpg?t=1665770084",
+            "coming_soon": true,
+            "content_descriptors": [
+                5
+            ],
+            "creator_clan_ids": [],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "492540/library_600x900.jpg?t=1665770084",
+            "localized_langs": [
+                0
+            ],
+            "main_capsule": "492540/capsule_616x353.jpg?t=1665770084",
+            "microtrailer": "256745434/microtrailer.webm?t=1553614446",
+            "microtrailer_mp4": "256745434/microtrailer.mp4?t=1553614446",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Coming Soon",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1703883600,
+            "screenshot_list": [
+                "492540/ss_23e81f495ef71c12e02150e19115874c0a882c84.jpg?t=1665770084",
+                "492540/ss_8b2f190d343613807fe552da3a8cd981d75398a4.jpg?t=1665770084",
+                "492540/ss_78b1e8a8242ccdee30334a24520efd609adcdad3.jpg?t=1665770084",
+                "492540/ss_d7afcabfe3fee463981bb17b7f43ee37b44c389b.jpg?t=1665770084"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Pixel Graphics",
+                    "tagid": 3964
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Turn-Based Combat",
+                    "tagid": 4325
+                },
+                {
+                    "name": "Party-Based RPG",
+                    "tagid": 10695
+                },
+                {
+                    "name": "Atmospheric",
+                    "tagid": 4166
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "2D",
+                    "tagid": 3871
+                }
+            ],
+            "tiny_capsule": "492540/capsule_sm_120.jpg?t=1665770084",
+            "title": "She Dreams Elsewhere",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1497430,
+            "appid": 1497430,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1497430/header.jpg?t=1659035283",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33023506
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1497430/library_600x900.jpg?t=1659035283",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                11,
+                12,
+                14,
+                21,
+                22,
+                27
+            ],
+            "main_capsule": "1497430/capsule_616x353.jpg?t=1659035283",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256898562/microtrailer.webm?t=1659035275",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256898562/microtrailer.mp4?t=1659035275",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1703876400,
+            "screenshot_list": [
+                "1497430/ss_c683f0874f131f12dbf9b58cd9df3d9817c5eefd.jpg?t=1659035283",
+                "1497430/ss_6d11e2931f01c15907a16ee5da5c597569d55786.jpg?t=1659035283",
+                "1497430/ss_1387ef7a985d645f4f2273af597b203275421bbe.jpg?t=1659035283",
+                "1497430/ss_6ad4a5af45d33230227d23de57d86840b66fb31b.jpg?t=1659035283"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Third Person",
+                    "tagid": 1697
+                },
+                {
+                    "name": "Fantasy",
+                    "tagid": 1684
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Post-apocalyptic",
+                    "tagid": 3835
+                },
+                {
+                    "name": "Hack and Slash",
+                    "tagid": 1646
+                },
+                {
+                    "name": "Character Customization",
+                    "tagid": 4747
+                },
+                {
+                    "name": "Combat",
+                    "tagid": 3993
+                },
+                {
+                    "name": "Controller",
+                    "tagid": 7481
+                }
+            ],
+            "tiny_capsule": "1497430/capsule_sm_120.jpg?t=1659035283",
+            "title": "Bounty Star",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1309080,
+            "appid": 1309080,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1309080/header.jpg?t=1657565172",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                6869120
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1309080/library_600x900.jpg?t=1657565172",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                6,
+                10,
+                27
+            ],
+            "main_capsule": "1309080/capsule_616x353.jpg?t=1657565172",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891897/microtrailer.webm?t=1655231620",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891897/microtrailer.mp4?t=1655231620",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1670950800,
+            "screenshot_list": [
+                "1309080/ss_c45f53dff02957b932289ccba559bead0c501d37.jpg?t=1657565172",
+                "1309080/ss_b0bb4ccbb22cc5ea0eed024246ced6677b4a3051.jpg?t=1657565172",
+                "1309080/ss_56815fdd926bce18958009c5d50543f7bf0178d8.jpg?t=1657565172",
+                "1309080/ss_ab2758e435c35963bb78a8aad7f32c839d2db7be.jpg?t=1657565172"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Indie",
+                    "tagid": 492
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Rhythm",
+                    "tagid": 1752
+                },
+                {
+                    "name": "Rock Music",
+                    "tagid": 337964
+                },
+                {
+                    "name": "Turn-Based Combat",
+                    "tagid": 4325
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Anime",
+                    "tagid": 4085
+                },
+                {
+                    "name": "Mechs",
+                    "tagid": 4821
+                }
+            ],
+            "tiny_capsule": "1309080/capsule_sm_120.jpg?t=1657565172",
+            "title": "INFINITE GUITARS",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1139280,
+            "appid": 1139280,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "1139280/header.jpg?t=1654099076",
+            "coming_soon": false,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                9036111
+            ],
+            "deck_compatibility_category": 3,
+            "discount_percent": 66,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1139280/library_600x900.jpg?t=1654099076",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                5,
+                6,
+                22
+            ],
+            "main_capsule": "1139280/capsule_616x353.jpg?t=1654099076",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256849657/microtrailer.webm?t=1630452336",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256849657/microtrailer.mp4?t=1630452336",
+            "no_main_cap": false,
+            "orig_price": "12,49€",
+            "orig_price_in_cents": 1249,
+            "price": "4,24€",
+            "price_in_cents": 424,
+            "release": "31 Aug, 2021",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Very Positive",
+                "num_positive": 257,
+                "num_reviews": 266,
+                "score": 8
+            },
+            "reviews_unfiltered": {
+                "label": "Very Positive",
+                "num_positive": 257,
+                "num_reviews": 266,
+                "score": 8
+            },
+            "rt_release_date": 1630411193,
+            "screenshot_list": [
+                "1139280/ss_01cf092e56048dad85efa33dba346c211a84c5bf.jpg?t=1654099076",
+                "1139280/ss_f52a5cef54a5eb2cec4d98c3c5f9e4e4e1e04316.jpg?t=1654099076",
+                "1139280/ss_ff5f462c1e3e81b88e14e82970ebf4f1c9efb79f.jpg?t=1654099076",
+                "1139280/ss_16390c2b83ace7962c16dd7898c464582fcfb43a.jpg?t=1654099076"
+            ],
+            "subid": 387595,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "1990's",
+                    "tagid": 6691
+                },
+                {
+                    "name": "Comedy",
+                    "tagid": 1719
+                },
+                {
+                    "name": "Crime",
+                    "tagid": 6378
+                },
+                {
+                    "name": "Indie",
+                    "tagid": 492
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Funny",
+                    "tagid": 4136
+                },
+                {
+                    "name": "Cartoony",
+                    "tagid": 4195
+                },
+                {
+                    "name": "Stylized",
+                    "tagid": 4252
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Female Protagonist",
+                    "tagid": 7208
+                }
+            ],
+            "tiny_capsule": "1139280/capsule_sm_120.jpg?t=1654099076",
+            "title": "The Big Con",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1229240,
+            "appid": 1229240,
+            "available_linux": false,
+            "available_mac": true,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1229240/header.jpg?t=1669034514",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                32991053,
+                21394
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1229240/library_600x900.jpg?t=1669034514",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                4,
+                10
+            ],
+            "main_capsule": "1229240/capsule_616x353.jpg?t=1669034514",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256915003/microtrailer.webm?t=1667919741",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256915003/microtrailer.mp4?t=1667919741",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "7 Dec, 2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1670475600,
+            "screenshot_list": [
+                "1229240/ss_b25ed2e671e7b616ec14e7ed3a2f483909e368c4.jpg?t=1669034514",
+                "1229240/ss_b350a5ee81b0eff7c044c99b2d809489d35a665c.jpg?t=1669034514",
+                "1229240/ss_cfba4c66d14e860d381374d252381f7469f39582.jpg?t=1669034514",
+                "1229240/ss_02152fa16493a1fe30ce307864c7b2d6f82daede.jpg?t=1669034514"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Indie",
+                    "tagid": 492
+                },
+                {
+                    "name": "Turn-Based",
+                    "tagid": 1677
+                },
+                {
+                    "name": "Pixel Graphics",
+                    "tagid": 3964
+                },
+                {
+                    "name": "Exploration",
+                    "tagid": 3834
+                },
+                {
+                    "name": "JRPG",
+                    "tagid": 4434
+                },
+                {
+                    "name": "Mechs",
+                    "tagid": 4821
+                }
+            ],
+            "tiny_capsule": "1229240/capsule_sm_120.jpg?t=1669034514",
+            "title": "Chained Echoes",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1106830,
+            "appid": 1106830,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "1106830/header.jpg?t=1643920036",
+            "coming_soon": false,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                9036111
+            ],
+            "deck_compatibility_category": 1,
+            "discount_percent": 65,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1106830/library_600x900.jpg?t=1643920036",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                5
+            ],
+            "main_capsule": "1106830/capsule_616x353.jpg?t=1643920036",
+            "microtrailer": "256864850/microtrailer.webm?t=1639428552",
+            "microtrailer_mp4": "256864850/microtrailer.mp4?t=1639428552",
+            "no_main_cap": false,
+            "orig_price": "17,99€",
+            "orig_price_in_cents": 1799,
+            "price": "6,29€",
+            "price_in_cents": 629,
+            "release": "5 Oct, 2021",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Very Positive",
+                "num_positive": 63,
+                "num_reviews": 67,
+                "score": 8
+            },
+            "reviews_unfiltered": {
+                "label": "Very Positive",
+                "num_positive": 63,
+                "num_reviews": 67,
+                "score": 8
+            },
+            "rt_release_date": 1633417204,
+            "screenshot_list": [
+                "1106830/ss_3f9afbc12a3e01f37964bf42537d358abde90a4c.jpg?t=1643920036",
+                "1106830/ss_823ce75665e1f175fa380e973e26b17143ca5f51.jpg?t=1643920036",
+                "1106830/ss_27638856b10bf611fa6e49ab6967101ed46f3a9f.jpg?t=1643920036",
+                "1106830/ss_ecaa7a1cc6565a7fcf25f3f9171fed949e35af18.jpg?t=1643920036"
+            ],
+            "subid": 374000,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Emotional",
+                    "tagid": 5608
+                },
+                {
+                    "name": "Indie",
+                    "tagid": 492
+                },
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Creature Collector",
+                    "tagid": 916648
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Puzzle Platformer",
+                    "tagid": 5537
+                },
+                {
+                    "name": "Fishing",
+                    "tagid": 15564
+                },
+                {
+                    "name": "LGBTQ+",
+                    "tagid": 44868
+                },
+                {
+                    "name": "Turn-Based Combat",
+                    "tagid": 4325
+                },
+                {
+                    "name": "Cute",
+                    "tagid": 4726
+                }
+            ],
+            "tiny_capsule": "1106830/capsule_sm_120.jpg?t=1643920036",
+            "title": "Rainbow Billy: The Curse of the Leviathan",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1583230,
+            "appid": 1583230,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1583230/header.jpg?t=1661277736",
+            "coming_soon": true,
+            "content_descriptors": [
+                1,
+                2,
+                5
+            ],
+            "creator_clan_ids": [],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1583230/library_600x900.jpg?t=1661277736",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                27
+            ],
+            "main_capsule": "1583230/capsule_616x353.jpg?t=1661277736",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256901180/microtrailer.webm?t=1661277728",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256901180/microtrailer.mp4?t=1661277728",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Dec 2022",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1670893200,
+            "screenshot_list": [
+                "1583230/ss_669dcc1c0928edf635e9f451c6a7eca7c044df15.jpg?t=1661277736",
+                "1583230/ss_d61be54334019301483a2e81df82a0df3873ee19.jpg?t=1661277736",
+                "1583230/ss_a94f22c604430ba5880a487b49632d35f3a49541.jpg?t=1661277736",
+                "1583230/ss_45bc99bb7407acd2a7ccabed3f2eda35eb2de02f.jpg?t=1661277736"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Comedy",
+                    "tagid": 1719
+                },
+                {
+                    "name": "FPS",
+                    "tagid": 1663
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "First-Person",
+                    "tagid": 3839
+                },
+                {
+                    "name": "Sci-fi",
+                    "tagid": 3942
+                },
+                {
+                    "name": "Shooter",
+                    "tagid": 1774
+                }
+            ],
+            "tiny_capsule": "1583230/capsule_sm_120.jpg?t=1661277736",
+            "title": "High On Life",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1928870,
+            "appid": 1928870,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1928870/header.jpg?t=1667593792",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                3090835,
+                42411130
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1928870/library_600x900.jpg?t=1667593792",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27
+            ],
+            "main_capsule": "1928870/capsule_616x353.jpg?t=1667593792",
+            "microtrailer": "256914687/microtrailer.webm?t=1667593779",
+            "microtrailer_mp4": "256914687/microtrailer.mp4?t=1667593779",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "Coming 2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1703919600,
+            "screenshot_list": [
+                "1928870/ss_0cf8c0b9c061232b57151643dcddac4e6f9cb823.jpg?t=1667593792",
+                "1928870/ss_0b920329bd2a5af27864907c754eb6ceda93e73c.jpg?t=1667593792",
+                "1928870/ss_168269c2414c40d2f911a4fd56ced8aea51343a9.jpg?t=1667593792",
+                "1928870/ss_a81f04691a2af42ed4727bd405288c87aaad8c40.jpg?t=1667593792"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Strategy",
+                    "tagid": 9
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "Fantasy",
+                    "tagid": 1684
+                },
+                {
+                    "name": "Tactical",
+                    "tagid": 1708
+                },
+                {
+                    "name": "Family Friendly",
+                    "tagid": 5350
+                },
+                {
+                    "name": "Multiplayer",
+                    "tagid": 3859
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Co-op",
+                    "tagid": 1685
+                },
+                {
+                    "name": "PvP",
+                    "tagid": 1775
+                },
+                {
+                    "name": "Controller",
+                    "tagid": 7481
+                }
+            ],
+            "tiny_capsule": "1928870/capsule_sm_120.jpg?t=1667593792",
+            "title": "Minecraft Legends",
+            "type": "game"
+        },
+        {
+            "app_to_run": 866800,
+            "appid": 866800,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "866800/header.jpg?t=1612901642",
+            "coming_soon": false,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                9036111
+            ],
+            "deck_compatibility_category": 3,
+            "discount_percent": 60,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "866800/library_600x900.jpg?t=1612901642",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                5,
+                6,
+                7,
+                8,
+                22
+            ],
+            "main_capsule": "866800/capsule_616x353.jpg?t=1612901642",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256722995/microtrailer.webm?t=1531951573",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256722995/microtrailer.mp4?t=1531951573",
+            "no_main_cap": false,
+            "orig_price": "23,99€",
+            "orig_price_in_cents": 2399,
+            "price": "9,59€",
+            "price_in_cents": 959,
+            "release": "13 Aug, 2018",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Very Positive",
+                "num_positive": 10681,
+                "num_reviews": 11340,
+                "score": 8
+            },
+            "reviews_unfiltered": {
+                "label": "Very Positive",
+                "num_positive": 10681,
+                "num_reviews": 11340,
+                "score": 8
+            },
+            "rt_release_date": 1534218900,
+            "screenshot_list": [
+                "866800/ss_2ad0e8194539fc75389ed3e29f30b0c920fc53c8.jpg?t=1612901642",
+                "866800/ss_69ec65a2683f42ec9831d088b0473c2c5d57b2e2.jpg?t=1612901642",
+                "866800/ss_e38104c51cec383a8a72e338ec3dc5be4d6c56ee.jpg?t=1612901642",
+                "866800/ss_72ba7cb53360c6bccbe676b0a2bac84e94f66a23.jpg?t=1612901642"
+            ],
+            "subid": 273441,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Choices Matter",
+                    "tagid": 6426
+                },
+                {
+                    "name": "Zombies",
+                    "tagid": 1659
+                },
+                {
+                    "name": "Adventure",
+                    "tagid": 21
+                },
+                {
+                    "name": "Choose Your Own Adventure",
+                    "tagid": 4486
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Female Protagonist",
+                    "tagid": 7208
+                },
+                {
+                    "name": "Post-apocalyptic",
+                    "tagid": 3835
+                },
+                {
+                    "name": "Atmospheric",
+                    "tagid": 4166
+                },
+                {
+                    "name": "Survival",
+                    "tagid": 1662
+                }
+            ],
+            "tiny_capsule": "866800/capsule_sm_120.jpg?t=1612901642",
+            "title": "The Walking Dead: The Final Season",
+            "type": "game"
+        },
+        {
+            "app_to_run": 1716740,
+            "appid": 1716740,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "",
+            "capsule": "1716740/header.jpg?t=1664820785",
+            "coming_soon": true,
+            "content_descriptors": [],
+            "creator_clan_ids": [
+                33028765
+            ],
+            "deck_compatibility_category": 0,
+            "discount_percent": "",
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "1716740/library_600x900.jpg?t=1664820785",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                5,
+                6,
+                8,
+                10,
+                12,
+                22
+            ],
+            "main_capsule": "1716740/capsule_616x353.jpg?t=1664820785",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891408/microtrailer.webm?t=1655067158",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256891408/microtrailer.mp4?t=1655067158",
+            "no_main_cap": false,
+            "orig_price": null,
+            "orig_price_in_cents": null,
+            "price": "",
+            "price_in_cents": null,
+            "release": "2023",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "reviews_unfiltered": {
+                "label": "No user reviews",
+                "num_positive": 0,
+                "num_reviews": 0,
+                "score": 0
+            },
+            "rt_release_date": 1703836800,
+            "screenshot_list": [
+                "1716740/ss_11f7087d52f0f8d0030d80b0a4d2e661b359eec6.jpg?t=1664820785",
+                "1716740/ss_ca355cecaffc23bd0471a3edf158c994ec7d9234.jpg?t=1664820785",
+                "1716740/ss_b0a08dc068661c54166eefbd8c9ec06c5e6943bf.jpg?t=1664820785",
+                "1716740/ss_4b20f54bb7de8f266e8a4914e9bc3805dcbd9484.jpg?t=1664820785"
+            ],
+            "subid": "",
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "RPG",
+                    "tagid": 122
+                },
+                {
+                    "name": "Open World",
+                    "tagid": 1695
+                },
+                {
+                    "name": "Space",
+                    "tagid": 1755
+                },
+                {
+                    "name": "Singleplayer",
+                    "tagid": 4182
+                },
+                {
+                    "name": "Sci-fi",
+                    "tagid": 3942
+                },
+                {
+                    "name": "Action-Adventure",
+                    "tagid": 4106
+                },
+                {
+                    "name": "Space Sim",
+                    "tagid": 16598
+                },
+                {
+                    "name": "Story Rich",
+                    "tagid": 1742
+                },
+                {
+                    "name": "Action RPG",
+                    "tagid": 4231
+                },
+                {
+                    "name": "First-Person",
+                    "tagid": 3839
+                }
+            ],
+            "tiny_capsule": "1716740/capsule_sm_120.jpg?t=1664820785",
+            "title": "Starfield",
+            "type": "game"
+        },
+        {
+            "app_to_run": 581320,
+            "appid": 581320,
+            "available_linux": false,
+            "available_mac": false,
+            "available_windows": true,
+            "button_action": "Add to Cart",
+            "capsule": "581320/header.jpg?t=1668766240",
+            "coming_soon": false,
+            "content_descriptors": [
+                2,
+                5
+            ],
+            "creator_clan_ids": [
+                32513338,
+                21394
+            ],
+            "deck_compatibility_category": 1,
+            "discount_percent": 50,
+            "early_access": false,
+            "free_weekend_label": "",
+            "is_free": false,
+            "library_asset": "581320/library_600x900.jpg?t=1668766240",
+            "localized_langs": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14,
+                15,
+                16,
+                17,
+                18,
+                19,
+                21,
+                22,
+                27
+            ],
+            "main_capsule": "581320/capsule_616x353.jpg?t=1668766240",
+            "microtrailer": "https://cdn.cloudflare.steamstatic.com/steam/apps/256916789/microtrailer.webm?t=1668766225",
+            "microtrailer_mp4": "https://cdn.cloudflare.steamstatic.com/steam/apps/256916789/microtrailer.mp4?t=1668766225",
+            "no_main_cap": false,
+            "orig_price": "29,99€",
+            "orig_price_in_cents": 2999,
+            "price": "14,99€",
+            "price_in_cents": 1499,
+            "release": "12 Dec, 2018",
+            "required_age": 0,
+            "reviews_filtered": {
+                "label": "Very Positive",
+                "num_positive": 67983,
+                "num_reviews": 78664,
+                "score": 8
+            },
+            "reviews_unfiltered": {
+                "label": "Very Positive",
+                "num_positive": 67983,
+                "num_reviews": 78664,
+                "score": 8
+            },
+            "rt_release_date": 1544633940,
+            "screenshot_list": [
+                "581320/ss_f600a84e7db5986cf1349a11c69cdfa7f8db23d4.jpg?t=1668766240",
+                "581320/ss_e448057c437688f6f75a82fa42da96fbc71917d8.jpg?t=1668766240",
+                "581320/ss_49653df9d4a9ff3f0ebef21978dcff107ae4f49a.jpg?t=1668766240",
+                "581320/ss_185a04d1865ad98aa474404a1ea744d97c96b2c1.jpg?t=1668766240"
+            ],
+            "subid": 329018,
+            "support_vrhmd": false,
+            "support_vrhmd_only": false,
+            "tags": [
+                {
+                    "name": "FPS",
+                    "tagid": 1663
+                },
+                {
+                    "name": "Realistic",
+                    "tagid": 4175
+                },
+                {
+                    "name": "Shooter",
+                    "tagid": 1774
+                },
+                {
+                    "name": "Military",
+                    "tagid": 4168
+                },
+                {
+                    "name": "Multiplayer",
+                    "tagid": 3859
+                },
+                {
+                    "name": "Tactical",
+                    "tagid": 1708
+                },
+                {
+                    "name": "Action",
+                    "tagid": 19
+                },
+                {
+                    "name": "First-Person",
+                    "tagid": 3839
+                },
+                {
+                    "name": "Online Co-Op",
+                    "tagid": 3843
+                },
+                {
+                    "name": "War",
+                    "tagid": 1678
+                }
+            ],
+            "tiny_capsule": "581320/capsule_sm_120.jpg?t=1668766240",
+            "title": "Insurgency: Sandstorm",
+            "type": "game"
+        }
+    ],
+    "success": 1
+}
