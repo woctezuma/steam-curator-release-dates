@@ -1,3 +1,6 @@
+> **Note**
+> The API endpoint [`/broadcast/ajaxgetbatchappcapsuleinfo`][api-endpoint] was deactivated on May 4, 2023.
+
 # Steam Curator's Release Dates
 
 This repository contains Python code to query Steam API to display hidden release dates for a Curator list.
@@ -23,3 +26,4 @@ python query_curator_apps.py
 
 [img-cover]: <https://github.com/woctezuma/steam-curator-release-dates/wiki/img/cover.png>
 [python-download-url]: <https://www.python.org/downloads/>
+[api-endpoint]: <https://github.com/Revadike/InternalSteamWebAPI/wiki/Get-Batch-App-Capsule>
