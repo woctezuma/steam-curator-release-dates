@@ -1,4 +1,4 @@
-> **Note**
+> [!Note]
 > The API endpoint [`/broadcast/ajaxgetbatchappcapsuleinfo`][api-endpoint] was deactivated on May 4, 2023.
 
 # Steam Curator's Release Dates
